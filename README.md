@@ -1,4 +1,7 @@
-### Back-end software developer
+## Back-end software developer
+
+#### Current stack:
+
 
 [![nodeJS](https://icon-icons.com/downloadimage.php?id=146411&root=2415/ICO/128/&file=nodejs_original_logo_icon_146411.ico)](https://nodejs.org/en/docs)
 [![JavaScript](https://icon-icons.com/downloadimage.php?id=130900&root=2108/ICO/512/&file=javascript_icon_130900.ico)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
