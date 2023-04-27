@@ -11,8 +11,8 @@
 [![nestJS](https://icon-icons.com/downloadimage.php?id=168087&root=2699/ICO/128/&file=nestjs_logo_icon_168087.ico)](https://nestjs.com)
 [![jest](https://icon-icons.com/downloadimage.php?id=130514&root=2107/ICO/128/&file=file_type_jest_icon_130514.ico)](https://jestjs.io/)
 
-[![SQL](https://icon-icons.com/downloadimage.php?id=57633&root=628/ICO/128/&file=sql-file-black-rounded-rectangular-interface-symbol_icon-icons.com_57633.ico)](https://www.w3schools.com/sql/)
 [![mongoDB](https://icon-icons.com/downloadimage.php?id=146425&root=2415/ICO/128/&file=mongodb_original_wordmark_logo_icon_146425.ico)](https://www.mongodb.com/)
+[![SQL](https://icon-icons.com/downloadimage.php?id=57633&root=628/ICO/128/&file=sql-file-black-rounded-rectangular-interface-symbol_icon-icons.com_57633.ico)](https://www.w3schools.com/sql/)
 [![postgreSQL](https://icon-icons.com/downloadimage.php?id=146390&root=2415/ICO/128/&file=postgresql_plain_wordmark_logo_icon_146390.ico)](https://www.postgresql.org/)
 
 ![HellCounT's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellCounT&show_icons=true&theme=gruvbox&count_private=true)
