@@ -15,8 +15,8 @@
 [![SQL](https://icon-icons.com/downloadimage.php?id=57633&root=628/ICO/128/&file=sql-file-black-rounded-rectangular-interface-symbol_icon-icons.com_57633.ico)](https://www.w3schools.com/sql/)
 [![postgreSQL](https://icon-icons.com/downloadimage.php?id=146390&root=2415/ICO/128/&file=postgresql_plain_wordmark_logo_icon_146390.ico)](https://www.postgresql.org/)
 
-![HellCounT's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellCounT&show_icons=true&theme=gruvbox&count_private=true&line_height=40)
-![HellCounT's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HellCounT&layout=large&theme=gruvbox)
+![HellCounT's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellCounT&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&line_height=40)
+![HellCounT's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HellCounT&layout=large&theme=gruvbox&hide_border=true)
 
 <!--
 **HellCounT/HellCounT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
