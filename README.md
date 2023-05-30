@@ -16,6 +16,7 @@
 [![postgreSQL](https://icon-icons.com/downloadimage.php?id=146390&root=2415/ICO/128/&file=postgresql_plain_wordmark_logo_icon_146390.ico)](https://www.postgresql.org/)
 
 ![HellCounT's GitHub stats](https://github-readme-stats.vercel.app/api?username=HellCounT&show_icons=true&theme=gruvbox&count_private=true)
+![HellCounT's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HellCounT&layout=large&theme=radical&hide_border=true&line_height=40)
 
 <!--
 **HellCounT/HellCounT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
