@@ -30,14 +30,14 @@ Building robust APIs and server-side solutions. Focused on clean architecture an
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HellCounT&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&line_height=40" alt="Stats" />
+  <img src="https://komarev.com/ghpvc/?username=HellCounT&style=for-the-badge&color=orange" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HellCounT&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HellCounT&theme=gruvbox&no-frame=true&column=4" alt="Trophies" />
 </p>
 
 ---
