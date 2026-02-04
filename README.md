@@ -30,18 +30,6 @@ Building robust APIs and server-side solutions. Focused on clean architecture an
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HellCounT&style=for-the-badge&color=orange" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HellCounT&theme=gruvbox&no-frame=true&column=4" alt="Trophies" />
-</p>
-
----
-
 ### 🔗 Connect
 
 Open for collaboration and interesting projects.
