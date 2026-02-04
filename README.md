@@ -33,11 +33,11 @@ Building robust APIs and server-side solutions. Focused on clean architecture an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HellCounT&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&line_height=40" alt="Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HellCounT&show_icons=true&theme=gruvbox&count_private=true&hide_border=true&line_height=40" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellCounT&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HellCounT&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
