@@ -20,6 +20,7 @@ Building robust APIs and server-side solutions. Focused on clean architecture an
 **Testing**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 **Databases**
 
